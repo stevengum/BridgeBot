@@ -1,5 +1,5 @@
 ﻿# BridgeBot
-BridgeBot is a bot troubleshooting and testing tool thought up by John Taylor, built by Swagat Misrha, and iterated on by Daniel Evans.
+BridgeBot is a bot troubleshooting and testing tool thought up by very verbose John Taylor, built by persevering Swagat Misrha, and iterated on by indomitable Daniel Evans.
 
 Currently BridgeBot is most useful in testing bots making use of the new Streaming Extensions libraries. 
 
